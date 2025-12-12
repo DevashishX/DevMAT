@@ -1,4 +1,4 @@
-# PCB Assembly Processes Overview
+# Overview
 
 ## Process 1: Standard RoHS-Compliant Consumer Electronics Assembly
 **Date Invented:** March 2006  
